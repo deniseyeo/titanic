@@ -1,6 +1,6 @@
-
-try(setwd("~/../../Downloads"),silent=TRUE)
-try(setwd("~/../Downloads"),silent=TRUE)
+#hello
+try(setwd("~/Users/Denise/titanic"),silent=TRUE)
+try(setwd("~Users/Denise/titanic"),silent=TRUE)
 library(ggplot2)
 library(randomForest)
 library(caret)

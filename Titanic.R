@@ -1,6 +1,6 @@
 ####### Titanic ########
 getwd()
-setwd("~/R/Kaggle/Titanic")
+setwd("~/Users/Denise/titanic")
 
 train<-read.csv("train.csv", stringsAsFactors=F, header=T)
 test<-read.csv("test.csv", stringsAsFactors=F, header=T)
